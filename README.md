@@ -32,11 +32,37 @@ A Clone of food delivery App.
 - Once installed in the emulator device. Test for the functionalities.
 
 # Alternative Way to Run:
-- git clone https://github.com/your-repo/react-native-app.git
-- cd react-native-app
+```bash
+git clone https://github.com/roysoumendu765/bhookh.git
+cd bhookh
+```
+
+### For Android
+
+```bash
+# using npm
+npm run android
+
+# OR using Yarn
+yarn android
+```
+
+### For iOS
+
+```bash
+# using npm
+npm run ios
+
+# OR using Yarn
+yarn ios
+```
 
 # Implementations:
-- Login Screen (used mockusers)
+- Login Screen (used mockusers.ts)
 - Home Screen (Main Component - Used `Redux` for state management)
 - Onboarding Screen (Using the carousel)
 - Loader Screen (Basic Loader)
+
+# Test Credentials:
+- Username: `JohnDoe123@gmail.com`
+- Password: `John@123`
