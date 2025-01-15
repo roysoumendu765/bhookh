@@ -1,27 +1,5 @@
-
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
 # bhookh
-A Clone of food delivery App.
+A Clone of food delivery App. (Login and Home Page, Api calls)
 
 # Steps to run the Application - Android:
 - clone the repository into local machine using `git clone https://github.com/roysoumendu765/bhookh.git`
