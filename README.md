@@ -11,7 +11,7 @@ A Clone of food delivery App.
 
 # Implementations:
 - Login Screen (used mockusers)
-- Home Screen (Main Component - Used `Redux` for data management)
+- Home Screen (Main Component - Used `Redux` for state management)
 - Onboarding Screen (Using the carousel)
 - Loader Screen (Basic Loader)
 
