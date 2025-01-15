@@ -8,3 +8,10 @@ A Clone of food delivery App.
 - `cd android` -> `./gradlew clean` -> `./gradlew assembleRelease` -> New build is created in the `android/build/outputs/app-debug.apk`
 - Drag and drop that .apk file in the emulator device in android studio
 - Once installed in the emulator device. Test for the functionalities.
+
+# Implementations:
+- Login Screen (used mockusers)
+- Home Screen (Main Component - Used `Redux` for data management)
+- Onboarding Screen (Using the carousel)
+- Loader Screen (Basic Loader)
+
