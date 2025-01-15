@@ -40,5 +40,3 @@ A Clone of food delivery App.
 - Home Screen (Main Component - Used `Redux` for state management)
 - Onboarding Screen (Using the carousel)
 - Loader Screen (Basic Loader)
-
->>>>>>> f468fb9051d980bce6954dd5d47c82b127ca220e
